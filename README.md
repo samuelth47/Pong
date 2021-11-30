@@ -1,2 +1,2 @@
 # Pong
-A python-based Pong game
+A python based Pong game using Tkinter for GUI
